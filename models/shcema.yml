@@ -8,6 +8,5 @@ sources:
         
       - name: ship
         identifier: raw_gz_ship
-        
       - name: product
         identifier: raw_gz_product
