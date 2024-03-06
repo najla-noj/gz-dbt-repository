@@ -44,3 +44,7 @@ sources:
       - name: facebook
         identifier: raw_gz_facebook
         description: Information about facebook platform
+
+      - name: int_campaigns
+        description: data from all campaigns
+    
