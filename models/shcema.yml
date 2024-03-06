@@ -27,4 +27,20 @@ sources:
             description: pk of products  
             tests:
               - unique 
-              - not_null 
+              - not_null  
+      
+      - name: adwords
+        identifier: raw gz_ adwords
+        description: Information about adwords platform
+
+      - name: bing
+        identifier: raw gz bing
+        description: Information about bing platform
+
+      - name: criteo
+        identifier: raw gz criteo
+        description: Information about criteo platform
+
+      - name: facebook
+        identifier: raw gz facebook
+        description: Information about facebook platform
