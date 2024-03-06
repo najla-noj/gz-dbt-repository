@@ -12,5 +12,5 @@ with
     )
 
 
-select *  , concat(products_id, orders_id) as praimary_kye, 
+select *  
 from renamed
